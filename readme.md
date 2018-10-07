@@ -7,3 +7,5 @@ This is an example list:
 * Second list item.
 
 * Third list item.
+
+* This is the last item.
